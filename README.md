@@ -25,4 +25,4 @@ My goals at this time are...
 
 ## Let's Connect!
 
-- Here is my [[LinkedIn](Your LinkedIn Profile Link)](https://www.linkedin.com/in/keplerridge/) profile
+- Here is my [[LinkedIn](https://www.linkedin.com/in/keplerridge/)] profile
