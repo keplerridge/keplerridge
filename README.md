@@ -1,4 +1,4 @@
-# Kepler Rigd
+# Kepler Rigde
 
 Hello World!
 
